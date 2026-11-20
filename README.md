@@ -1,5 +1,5 @@
 # Lista de Tarefas
-Meu primeiro projeto simples de gerenciador de tarefas em Python.
+Gerenciador de tarefas simples.
  
 ## Tecnologias
 - Python
